@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/aporia-fagblad/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=aporia-fagblad/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>dokumentation | Aporia Fagblad</title>
+<meta name="keywords" content="">
+<meta name="description" content="En overfladisk guide til kommende webmastere">
+<meta name="author" content="Jonathan Friis">
+<link rel="canonical" href="http://localhost:1313/aporia-fagblad/dokumentation/">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Serif+Display:wght@400;600&display=swap" rel="stylesheet">
+<link crossorigin="anonymous" href="/aporia-fagblad/assets/css/stylesheet.c28eff6a11bb6fe260a21e3666caba9df99bab1d4d8f68e1133180805a3b3a31.css" integrity="sha256-wo7/ahG7b&#43;Jgoh42Zsq6nfmbqx1Nj2jhEzGAgFo7OjE=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/aporia-fagblad/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/aporia-fagblad/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/aporia-fagblad/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/aporia-fagblad/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/aporia-fagblad/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/aporia-fagblad/dokumentation/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/aporia-fagblad/" accesskey="h" title="Aporia Fagblad (Alt + H)">Aporia Fagblad</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/aporia-fagblad/udgivelser/" title="Udgivelser">
+                    <span>Udgivelser</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/aporia-fagblad/kontakt/" title="Kontakt os">
+                    <span>Kontakt os</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/aporia-fagblad/om-aporia/" title="Om Aporia">
+                    <span>Om Aporia</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      dokumentation
+    </h1>
+    <div class="post-description">
+      En overfladisk guide til kommende webmastere
+    </div>
+    <div class="post-meta"><span>Jonathan Friis</span>
+
+</div>
+  </header> 
+  <div class="post-content"><h3 id="disclaimer">DISCLAIMER<a hidden class="anchor" aria-hidden="true" href="#disclaimer">#</a></h3>
+<p>Denne artikel lærer dig ikke at bruge de nødvendige værktøjer for at kunne hoste siden, den lærer dig kun de absolut basale nødvendigheder for at kunne opdatere artiklerne, hvis du ikke kan bruge basal commandline på din computer, så er der lang vej. Ikke desto mindre er det muligt at lære det og komme godt videre.</p>
+<p>Det er meningen at man skal kunne ændre i artiklen til kommende generationer af webmastere.</p>
+<h3 id="hvordan-fungerer-hjemmesiden">Hvordan fungerer hjemmesiden<a hidden class="anchor" aria-hidden="true" href="#hvordan-fungerer-hjemmesiden">#</a></h3>
+<p>Vi bruger et program kaldet hugo til at sætte hjemmesiden op, og hjemmesiden bliver hostet af gtihub. Det hjælper at have kendskab til commandline og markdown, men det er ikke nødvendigt, alt derudover kan læres. Commandline vil herfra blive refereret til som CLI.</p>
+<p><strong>Github:</strong> Github hoster vores hjemmeside gratis, jeg har indsat et workflow, på github, som der ikke må ændres i, medmindre hugo eller github kommer med en opdatering som gør workflowet ubrugeligt. Det fungerer sådan at man uploader aporia mappen til github, hvor github så kører et hugo program som aflæser filerne, giver hjemmesiden til github som så hoster siden.</p>
+<p><strong>CLI:</strong> Bruges til at opdaterer hjemmesiden i sig selv, du skal kunne navigere i forskellige mapper og ændrer i filer med din favorit text editor, jeg bruger selv neovim fordi det fungerer rigtigt godt sammen med CLI.</p>
+<p><strong>Obsidian:</strong> Er et program du kan bruge til nemt at navigere i for at finde artiklerne i selve aporia mappen, den aflæser md filtyper og viser dem pænt struktureret. Det er også fantastisk til at tage noter i.</p>
+<p><strong>Markdown:</strong> Er et format som obsidian og hugo bruger. Alle artikler skal have formatet md for at kunne aflæses af hugo.</p>
+<h3 id="hvordan-formaterer-man-en-artikel">Hvordan formaterer man en artikel?<a hidden class="anchor" aria-hidden="true" href="#hvordan-formaterer-man-en-artikel">#</a></h3>
+<p>Eftersom du har md erfaring er det ikke utroligt svært. Jeg foreslår at kigge i en af de nuværende artikler (i aporia mappen). De ligger under <code>aporia-fagblad\content\udgivelser</code>. De har en masse egenskaber i toppen som man skal udfylde, de skal være tilstede øverst i md filen, hugo aflæser filerne og tager dem i brug. Det er sådan den skelner mellem &ldquo;forfatter&rdquo;, beskrivelse osv.</p>
+<p>I egenskaberne kan i se at der står <strong>Weight</strong> det er den der afgør hvilken artikel der vil være øverst. Derfor vil den første artikel have vægt 1, den næste vægt 2 osv.</p>
+<p><strong>Draft</strong> Afgør om artiklen skal være med på siden eller ej, altså om den skal vises på hjemmesiden. Hvis der står true vil hjemmesiden komme med, derfor skal der generelt stå true ved dem alle sammen.</p>
+<h3 id="hvordan-opdaterer-man-hjemmesiden-når-der-kommer-en-ny-udgivelse">Hvordan opdaterer man hjemmesiden når der kommer en ny udgivelse?<a hidden class="anchor" aria-hidden="true" href="#hvordan-opdaterer-man-hjemmesiden-når-der-kommer-en-ny-udgivelse">#</a></h3>
+<p>Man skal først lave en ny mappe i udgivelsesmappen fundet under <code>aporia-fagblad\content\udgivelser</code>.</p>
+<p>De nuværende mapper hedder ting som F2025, E2025 (For forår og efterår). Alle udgivelser skal lægges inde i mappen i et markdown (md) format.</p>
+<p>Prøv nu at skriv &ldquo;hugo server&rdquo; i terminalen (med aporia-fagblad som working directory). Der vil komme et link, oftest http://localhost:1313/aporia-fagblad/. Siden vil nu have alle de nye artikler, og man ville kunne se og rette i dem.</p>
+<h3 id="hvad-er-_index">Hvad er _index?<a hidden class="anchor" aria-hidden="true" href="#hvad-er-_index">#</a></h3>
+<p>_index er teksten der bliver vist på siden, jeg har brugt den til at vise forordet for alle udgivelserne. Den har en anden template end artiklerne, da indstillingerne er anderledes.</p>
+<h3 id="hvordan-bruger-man-git">Hvordan bruger man git?<a hidden class="anchor" aria-hidden="true" href="#hvordan-bruger-man-git">#</a></h3>
+<p>Du behøves ikke vide en skid om git, når det først er sat op skal du kun kende disse tre kommandoer:</p>
+<p><strong>git add:</strong> Tilføjer filen eller mappen til den næste version. Hvis man skriver <code>git add .</code> mens man er i sit working directory(Aporia-fagblad.dk mappen), så vil alle ændringer man har foretaget sig komme med i næste opdatering. Det er den nemmeste måde at gøre det på.</p>
+<p><strong>git commit -m:</strong> Man skriver hvilke ændringer der har været, som en kommentar. Så hvis man har ændret i fonten siden sidste opdatering, så vil man skrive <code>git commit -m &quot;Ændret i font&quot;</code>. Så vil den kommentar stå ved alle filer der er blevet ændret siden sidst, det er også muligt at skrive noget specifikt til hver fil. Men det kommer vi ikke ind på her.</p>
+<p><strong>git push:</strong> skubber ændringerne til github og opdaterer den rigtige hjemmeside &ldquo;aporia-fagblad.dk&rdquo;.</p>
+<p>Hvis man har behov for at vide mere om git, er det en fordel at spørge sin yndlings LLM eller kigge på youtube. Derudover vil den ansvarlige før dig hjælpe dig med opsætningen, ellers så skriv til <a href="mailto:aporia@jonathanfriis.dk">aporia@jonathanfriis.dk</a>.</p>
+<h3 id="hvordan-ændrer-man-billederne-af-bestyrelsen">Hvordan ændrer man billederne af bestyrelsen<a hidden class="anchor" aria-hidden="true" href="#hvordan-ændrer-man-billederne-af-bestyrelsen">#</a></h3>
+<p>Man går simpelthen bare ind i mappen <code>static\images</code>og fjerne de gamle billeder og tilføjer nye med det samme navn, fx fjerner man billedet <code>webmaster.jpg</code>og indsætter et billede af den nye webmaster kaldet <code>webmaster.jpg</code>. HUSK FORMATET.</p>
+<h3 id="hvad-nu-hvis-vi-vil-ændre-i-formatet">Hvad nu hvis vi vil ændre i formatet?<a hidden class="anchor" aria-hidden="true" href="#hvad-nu-hvis-vi-vil-ændre-i-formatet">#</a></h3>
+<p>Lær at bruge hugo, der findes utallige overfladiske youtubevideoer, se de lange i stedet for de korte. Det kommer man længst med.</p>
+<p>Man kan ændre font, farver, logoer osv. men sæt dig godt ind i det først. Det tog mig 30 timer at lære det med middelmådig erfaring, så kan du også.</p>
+<h3 id="vil-du-gøre-noget-fancy">Vil du gøre noget fancy?<a hidden class="anchor" aria-hidden="true" href="#vil-du-gøre-noget-fancy">#</a></h3>
+<p>Hvis du vil ændre i noget CSS kode skal du navigere til <code>\assets\css\common\</code>der findes alle mine ændringer, som fx. font, opsætning af bibliografi, opsætning af fodnoter osv. Der står under al kode hvad det gør. Lad vær med at skrive noget i dem hvis du ikke ved hvad du har gang i.</p>
+<p>HTML ændres under <code>\layouts\partials\</code>der findes nogen forskellige ændringer, noget af det er standard indstillinger, andet er font osv. Lad vær med at skrive noget i dem hvis du ikke ved hvad du har gang i.</p>
+<p>Hugo konfigurationen findes under <code>\config\_default\</code>der er konfiguration som brødkrummer, antal sider på en side, startside, logoer osv. Hvis man vil ændre aporias logo på forsiden skal man lægge et billede ind i mappen <code>\static\images\</code> kaldet aporia.jpg, og fjerne den gamle.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/aporia-fagblad/">Aporia Fagblad</a></span>
+
+    <span>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

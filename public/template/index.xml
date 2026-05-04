@@ -8,10 +8,17 @@
     <language>da-DK</language>
     <atom:link href="http://localhost:1313/aporia-fagblad/template/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>{{Title}}</title>
-      <link>http://localhost:1313/aporia-fagblad/template/template/</link>
+      <title></title>
+      <link>http://localhost:1313/aporia-fagblad/template/index_template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aporia-fagblad/template/template/</guid>
+      <guid>http://localhost:1313/aporia-fagblad/template/index_template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forår 2025: Begyndelser</title>
+      <link>http://localhost:1313/aporia-fagblad/template/post_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/template/post_template/</guid>
       <description>&lt;h2 id=&#34;bibliografi&#34;&gt;Bibliografi&lt;/h2&gt;
 &lt;div class=&#34;bibliography&#34;&gt;
 &lt;/div&gt;</description>

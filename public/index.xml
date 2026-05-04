@@ -122,7 +122,7 @@
 &lt;p&gt;Halshugningen af Louis d. 16. den 21. januar år 1793 markerede begyndelsen på den  første franske republik. Republikken var et kvantespring i det snart spirende politiske liv i  Europa, som inspirerede revolutioner over hele kontinentet. Selv i Danmark, omtrent 1000  kilometer nord for Paris, blev idéerne om et folkestyre diskuteret blandt befolkningen. Det  franske folk har længe haft en helt særlig evne til at iscenesætte det politiske på  dramatisk vis, og at indlede sin republik med en halshugning af kongeparret er ingen  undtagelse. Knap så iltre temperamenter er danskerne kendt for. Dog havde danskerne i  tiden omkring Grundlovens udarbejdelse måske ladet sine temperamenter køle rigeligt  ned af de kolde, nordiske vinde.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>begyndelsen er allerede for sent</title>
+      <title>Begyndelsen er allerede for sent</title>
       <link>http://localhost:1313/aporia-fagblad/udgivelser/f2025/begyndelsen-er-allerede-for-sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aporia-fagblad/udgivelser/f2025/begyndelsen-er-allerede-for-sent/</guid>
@@ -181,13 +181,34 @@ Alt sammen.</description>
       <description>On the mourning and spectral dilemmas of RFK and MLK</description>
     </item>
     <item>
-      <title>{{Title}}</title>
-      <link>http://localhost:1313/aporia-fagblad/template/template/</link>
+      <title></title>
+      <link>http://localhost:1313/aporia-fagblad/template/index_template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aporia-fagblad/template/template/</guid>
+      <guid>http://localhost:1313/aporia-fagblad/template/index_template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dokumentation</title>
+      <link>http://localhost:1313/aporia-fagblad/dokumentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/dokumentation/</guid>
+      <description>En overfladisk guide til kommende webmastere</description>
+    </item>
+    <item>
+      <title>Forår 2025: Begyndelser</title>
+      <link>http://localhost:1313/aporia-fagblad/template/post_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/template/post_template/</guid>
       <description>&lt;h2 id=&#34;bibliografi&#34;&gt;Bibliografi&lt;/h2&gt;
 &lt;div class=&#34;bibliography&#34;&gt;
 &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Friheden vendt på hovedet – er biologien ved at smide determinismens lænker?</title>
+      <link>http://localhost:1313/aporia-fagblad/udgivelser/f2026/friheden-vendt-p%C3%A5-hovedet--er-biologien-ved-at-smide-determinismens-l%C3%A6nker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/udgivelser/f2026/friheden-vendt-p%C3%A5-hovedet--er-biologien-ved-at-smide-determinismens-l%C3%A6nker/</guid>
+      <description>&lt;p&gt;I videnskaben findes friheden ikke. Det kan godt være, at vi føler os frie, når vi står i supermarkedet og vælger skummetmælk frem for sødmælk. At vi oplever en brusende følelse af frihed, når det bliver fredag eftermiddag, og weekenden står for døren. Men intet af dette er jo rigtig frihed. Det føles bare sådan. For den egentlige frihed er en illusion. Sådan er vi moderne, videnskabeligt oplyste mennesker vant til at tænke. Selvom vi sommetider kan føle os frie, ved vi godt, at friheden ikke findes. At vi blot er en del af et fysisk univers, hvor alt er bestemt på forhånd, hvor ting bare sker, og hvor vi ingen kontrol har over noget som helst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt os</title>
@@ -200,7 +221,7 @@ Alt sammen.</description>
 &lt;p&gt;Webmaster: &lt;a href=&#34;mailto:aporia@jonathanfriis.dk&#34;&gt;aporia@jonathanfriis.dk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>om Aporia</title>
+      <title>Om Aporia</title>
       <link>http://localhost:1313/aporia-fagblad/om-aporia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aporia-fagblad/om-aporia/</guid>
