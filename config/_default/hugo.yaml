@@ -1,6 +1,6 @@
 languageCode: 'da-DK'
 baseURL: 'https://aporia-fagblad.dk/'
-title: 'Aporia Fagblad'
+title: 'Aporia'
 theme: 'PaperMod'
 
 pagination:
@@ -24,17 +24,18 @@ params:
   profileMode:
     enabled: true
     title: "Aporia - Det studenterdrevne Fagblad for Filosofi på Aarhus universitet" # optional default will be site title
-    subtitle: "Aporias officielle hjemmeside"
     imageUrl: "images/aporia.jpg" # optional
     imageTitle: "Aporia logo" # optional
     imageWidth: 200 # custom size
     imageHeight: 200 # custom size
     defualtTheme: auto # Automatically shift theme depending on system
     buttons:
-      -  name: udgivelser
+      -  name: Udgivelser
          url: "https://exukia.github.io/aporia-fagblad/udgivelser/"
-      -  name: kontakt
+      -  name: Kontakt
          url: "https://exukia.github.io/aporia-fagblad/kontakt/"
+      -  name: Καινόν
+         url: "https://exukia.github.io/aporia-fagblad/udgivelser/f2026/"
 
   socialIcons: # optional
     - name: "Facebook"

@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Forår 2026: Frihed on Aporia Fagblad</title>
-    <link>http://localhost:1313/aporia-fagblad/udgivelser/f2026/</link>
-    <description>Recent content in Forår 2026: Frihed on Aporia Fagblad</description>
+    <title>Forår 2026: Frihed on Aporia</title>
+    <link>http://localhost:1313/udgivelser/f2026/</link>
+    <description>Recent content in Forår 2026: Frihed on Aporia</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>da-DK</language>
-    <atom:link href="http://localhost:1313/aporia-fagblad/udgivelser/f2026/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Friheden vendt på hovedet – er biologien ved at smide determinismens lænker?</title>
-      <link>http://localhost:1313/aporia-fagblad/udgivelser/f2026/friheden-vendt-p%C3%A5-hovedet--er-biologien-ved-at-smide-determinismens-l%C3%A6nker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aporia-fagblad/udgivelser/f2026/friheden-vendt-p%C3%A5-hovedet--er-biologien-ved-at-smide-determinismens-l%C3%A6nker/</guid>
-      <description>&lt;p&gt;I videnskaben findes friheden ikke. Det kan godt være, at vi føler os frie, når vi står i supermarkedet og vælger skummetmælk frem for sødmælk. At vi oplever en brusende følelse af frihed, når det bliver fredag eftermiddag, og weekenden står for døren. Men intet af dette er jo rigtig frihed. Det føles bare sådan. For den egentlige frihed er en illusion. Sådan er vi moderne, videnskabeligt oplyste mennesker vant til at tænke. Selvom vi sommetider kan føle os frie, ved vi godt, at friheden ikke findes. At vi blot er en del af et fysisk univers, hvor alt er bestemt på forhånd, hvor ting bare sker, og hvor vi ingen kontrol har over noget som helst.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/udgivelser/f2026/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

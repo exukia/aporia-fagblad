@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Aporias udgivelser on Aporia Fagblad</title>
-    <link>http://localhost:1313/aporia-fagblad/udgivelser/</link>
-    <description>Recent content in Aporias udgivelser on Aporia Fagblad</description>
+    <title>Aporias udgivelser on Aporia</title>
+    <link>http://localhost:1313/udgivelser/</link>
+    <description>Recent content in Aporias udgivelser on Aporia</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>da-DK</language>
-    <atom:link href="http://localhost:1313/aporia-fagblad/udgivelser/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/udgivelser/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
