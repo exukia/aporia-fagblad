@@ -34,7 +34,7 @@ params:
          url: "https://exukia.github.io/aporia-fagblad/udgivelser/"
       -  name: Kontakt
          url: "https://exukia.github.io/aporia-fagblad/kontakt/"
-      -  name: Καινόν
+      -  name: ⭐ Seneste ⭐
          url: "https://exukia.github.io/aporia-fagblad/udgivelser/f2026/"
 
   socialIcons: # optional
