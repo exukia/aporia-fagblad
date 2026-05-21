@@ -3,7 +3,7 @@ main:
     url: "/udgivelser/"
     weight: 10
 
-  - name: "Kontakt os"
+  - name: "Kontakt"
     url: "/kontakt/"
     weight: 20
 

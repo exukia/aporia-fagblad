@@ -32,10 +32,10 @@ params:
     buttons:
       -  name: Udgivelser
          url: "https://exukia.github.io/aporia-fagblad/udgivelser/"
-      -  name: Kontakt
-         url: "https://exukia.github.io/aporia-fagblad/kontakt/"
       -  name: ⭐ Seneste ⭐
          url: "https://exukia.github.io/aporia-fagblad/udgivelser/f2026/"
+      -  name: Få Aporia på din smartphone
+         url: "https://exukia.github.io/aporia-fagblad/hjemmeskærm/"
 
   socialIcons: # optional
     - name: "Facebook"
