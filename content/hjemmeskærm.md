@@ -13,6 +13,6 @@ Description: Du kan tilføje Aporia til hjemmeskærmen på din tlf, så du kan l
 
 ### Android (Google Chrome)
 1. Åbn hjemmesiden på Google Chrome
-2. Tryk på menu-knappen (De 3 prikker øverst til højre)
+2. Tryk på **menu-knappen** (De 3 prikker øverst til højre)
 3. Tryk enten på "installer app" eller "Føj til hjemmeskærm"
 4. Bekræft ved at trykke tilføj.
