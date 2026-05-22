@@ -91,3 +91,15 @@
   padding-left: 3em;
   font-style: italic;
 }
+
+.post-single .block-quote strong,
+.list .block-quote strong {
+  font-weight: bold;
+}
+
+.post-single .post-content .Kasper,
+.list .post-content .Kasper {
+  text-align: center;
+  line-height: 1.2;
+  white-space: pre-line;
+}
