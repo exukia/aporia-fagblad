@@ -7,7 +7,7 @@ Description: "Dette er aporias officielle forfatterguide, den skal følges for a
 ---
 
 #### Skrivestil
-Artikler skal være på dansk eller engelsk. Citater må gerne være et andet sprog. Det forventes at indsendte artikler er velovervejede rent sprogligt og grammatisk.
+Artikler skal være på dansk eller engelsk. Citater må gerne være skrevet på et andet sprog. Det forventes at indsendte artikler er velovervejede rent sprogligt og grammatisk.
 
 #### Omfang
 Artikler skal være mellem 2-10 normalsider, hvor en side betegnes som 2400 tegn med mellemrum. Her tæller fodnoter også med. Dog er bibliografi undtaget.
@@ -20,7 +20,7 @@ Indsendte artikler skal følge APA 7th referencesystem, som kan findes [her](htt
 
 Det vil derfor sige at referencer skrives in-line, og fodnoter derfor kun er uddybende kommentarer.
 
-Fodnoter må ikke skrives i titel, beskrivelse eller beskrivelse, da dette er metadata.
+Fodnoter må ikke skrives i titel, beskrivelse eller forfatter, da dette er metadata.
 
 #### Billeder, illustrationer og anden kreativ frihed
 Det er ikke tilladt at have billeder eller andre illustrationer.
@@ -33,4 +33,4 @@ Hvis man ønsker anden kreativ frihed, bedes man tage kontakt til redaktionen fo
 - Logiske figurer
 
 #### Indelse af artikler
-Indsendte artikler skal leveres i Word OG .md filtype. De skal sendes til mailen aporia-fagblad@gmail.com
+Indsendte artikler skal leveres i .docx filtype. De skal sendes til mailen aporia-fagblad@gmail.com
