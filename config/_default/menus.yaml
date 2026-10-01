@@ -3,10 +3,14 @@ main:
     url: "/udgivelser/"
     weight: 10
 
+  - name: "Forfatterguide"
+    url: "/forfatterguide/"
+    weight: 20
+
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 20
+    weight: 30
 
   - name: "Om Aporia"
     url: "/om-Aporia/"
-    weight: 30
+    weight: 40
