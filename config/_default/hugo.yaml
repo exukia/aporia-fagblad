@@ -1,4 +1,4 @@
-languageCode: 'da-DK'
+locale: 'da-DK'
 baseURL: 'https://aporia-fagblad.dk/'
 title: 'Aporia'
 theme: 'PaperMod'
