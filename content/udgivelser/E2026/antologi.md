@@ -1,6 +1,6 @@
 ---
 title: "Kampskrift: Skjult og Udenfor"
-Draft: "false"
+Draft: "true"
 Weight: "100"
 Description:
 ---
