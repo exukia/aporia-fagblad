@@ -1,10 +1,9 @@
 ---
-title: "Kampskrift: Skjult og Udenfor"
-Draft: "true"
-Weight: "100"
+Draft: false
+Weight: 4
 Description:
+title: "Kampskrift: Skjult og Udenfor"
 ---
-
 Velkommen til.
  
 Dette er et forsøg på at give plads til perspektiver, der ellers forbliver oversete eller uhørte ved at lade dem eksistere ved siden af hinanden, i én samlet, opdelt fortælling.
