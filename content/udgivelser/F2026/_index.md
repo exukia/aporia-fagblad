@@ -3,6 +3,7 @@ Title: "Forår 2026: Frihed"
 ShowBreadcrumbs: false
 ShowReadingTime: false
 Draft: "false"
+Weight: -3
 ---
 Sker noget én gang, kan det være en tilfældighed. Sker det to gange, begynder et mønster at tegne sig. Men tredje gang kan man ikke længere nægte, at der er tale om en regelmæssighed. Det er derfor ikke af lille betydning, at Aporias blå omslag nu for tredje gang kan pryde den ivrige læsers bogreol: Nu kan det ej mere betvivles; nu er studenterfagbladet for alvor en fast del af Aarhus Universitets filosofiuddannelse.
 

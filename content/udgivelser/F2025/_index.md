@@ -3,6 +3,7 @@ Draft: false
 title: "Forår 2025: Begyndelser"
 ShowBreadcrumbs: false
 ShowReadingTime: false
+Weight: -1
 ---
 Med denne første udgivelse af et nyt filosofisk studenterfagblad på Aarhus Universitet, vil vi vise hvordan begyndelsen er et særskilt emne for filosofien. Hvad Aristoteles har lært os er jo, at alting har en årsag – en begyndelse. Også vores filosofiske disciplin tog engang sin begyndelse. Selv verdenshistorien er lige så vel som vores individuelle tilværelse blevet udformet fra sin spæde begyndelse. Nye bevægelser og nye tankestrømme er altid begyndt fra ideer udsprunget fra nysgerrighed og forundrede spørgsmål. Måske kan et studenterfagblad også være en sådan begyndelse?
 

@@ -3,7 +3,7 @@ Title: "Efterår 2026: Det åbne og det skjulte"
 ShowBreadcrumbs: false
 ShowReadingTime: false
 Draft: false
-Weight: 0
+Weight: -4
 ---
 
 Cuffing-season, togforsinkelser og paraplymassakrer, er der overhovedet noget som helst elskværdigt ved efteråret? Det er et tragikomisk fænomen, når efteråret indhenter os: Alt synes pludselig at blive mere trist og ensomt. Om man står på en togperron langt over tid, slår sin paraply op mod regnen blot for at se vinden knække den midt over sekunder efter, eller i panik over sine triste forudsætninger downloader en datingapp i søgen efter intimitet for ikke at få et eneste match, kan efteråret virke rædselsfuldt. Man skulle tro, at netop dette scenarie udspillede sig for Cioran eller Schopenhauer med jævne mellemrum.

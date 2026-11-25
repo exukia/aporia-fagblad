@@ -2,6 +2,7 @@
 Title: "Efterår 2025: Grænser"
 ShowBreadcrumbs: false
 ShowReadingTime: false
+Weight: -2
 ---
 Aporia kan nu med glæde byde velkommen til anden udgivelse af Aarhus Universitets filosofiske fagblad, hvor vi ser nærmere på ’grænser’ som et afgørende, men underkendt koncept i den vestlige begrebsarkitektur. Den vestlige tænkning har fra dens spæde begyndelse henlagt sig en syv-slørs dans mellem filosofiens tænkningsgrænse og dens grænsetænkning. Fra Sokrates, hvis ironi og modsigelse af systembygningen, Kierkegaard forstod som en erkendelse af den Virkelighed, som nødvendigvis må stå udenfor systemernes grænseterritorie. Til idealsystemernes dybfølte ønske om at rykke den rene fornufts begrebslige rækkevidde hen over tingen-i-sig-selvs egen erkendelighedsgrænser, henimod Kant, der trækker den tilbage til fænomenernes erkendelighed. Til den samtidige filosofi, fra Adornos negative dialektiske projekt om at bevare det non-identiske, som nødvendigvis frasiger sig repræsentation i begreberne, til den objekt orienterede ontologi, der insisterer på at aftage mennesket dets rolle, som grænsekontrol for det Virkelige. Grænser, for begreberne, systemerne, for tænkningen, har været en evindelig følgetanke i metafysikken. 
 
